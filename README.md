@@ -1,1 +1,1 @@
-# Forecasting-S-P500-with-Deep-Learning-Machine-Learning-and-Time-Series-Models
+# Forecasting-SP500-with-Deep-Learning-Machine-Learning-and-Time-Series-Models
